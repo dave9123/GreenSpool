@@ -6,16 +6,14 @@ Time spent so far: 2 hours
 
 ## Goals
 
-<ul>
-    <li>A plastic hopper and melter to turn plastic waste usable.</li>
-    <li>Automatic conveyor system for continous printing and part ejection.</li>
-    <li>Able to print rapidly while maintaining print quality.</li>
-    <li>An interface to control the queue, settings—heated print bed, extrusion heat, fan speed—, pause printing, changing filaments, and etc.</li>
-    <li>Supports recording timelapse to view the printing process.</li>
-    <li>Affordable.</li>
-<ul>
+<li>A plastic hopper and melter to turn plastic waste usable.</li>
+<li>Automatic conveyor system for continous printing and part ejection.</li>
+<li>Able to print rapidly while maintaining print quality.</li>
+<li>An interface to control the queue, settings—heated print bed, extrusion heat, fan speed—, pause printing, changing filaments, and etc.</li>
+<li>Supports recording timelapse to view the printing process.</li>
+<li>Affordable.</li>
 
-## Day 1 - February 29th 2025
+## Day 1 (February 29th 2025)
 
 Today I watched a few YouTube videos on how I can possibly make a 3D printer. Then, I realized about the problem that some of us might be facing—plastic waste (except Singaporeans most likely).
 
