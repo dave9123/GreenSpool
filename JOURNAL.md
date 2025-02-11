@@ -2,8 +2,12 @@ Made by: [@dave9123](https://dave9123.pages.dev/)
 
 Repository link: [https://github.com/dave9123/GreenSpool](https://github.com/dave9123/GreenSpool)
 
-Time spent so far: 2 hours
+Time spent so far: 4 hours
 
+## Important Notes
+
+- PET should not be reused for food applications after printing, as small imperfections may harbor bacteria.
+- For industrial re-use, PET undergoes chemical recycling or re-extrusion at high temperatures that fully sanitize and reshape it.
 ## Goals
 
 <li>A plastic hopper and melter to turn plastic waste usable.</li>
@@ -61,4 +65,36 @@ I found out that plastics can be harmful when it's heated up. Source:
 - https://www.quora.com/I-live-beside-a-PET-plastic-plant-that-was-just-opened-The-smell-in-my-garden-and-home-is-like-an-acrylic-factory-Could-this-be-harmful-to-the-kids-and-myself
 - https://www.reddit.com/r/unpopularopinion/comments/vfgs8l/heating_food_or_drinks_in_plastic_and_then/
 
-This might mean that I will need to have an exhaust system along with an air filter (HEPA?) to prevent the user from inhaling the toxic fumes emitted during the printing and moulding.
+
+> While PolyLactic Acid (PLA) and Polyethylene (+Glycol) has been classified as Generally Regarded As Safe (GRAS). There's a lot of uncertainty around the process of additive manufacturing.
+>
+> Some testing shows that the layer lines are big enough that bacteria don't hide inside as much as expected. Additionally, it's not nearly as porous as initally expected. Some soap and water with scrubbing is enough to clean most of it out and a quick wash with a bleach solution can bring it up to almost medical standards.
+>
+> This does not take into account material impurities. New nozzles can come with a coating (often PTFE) to prevent blobs from sticking. The abrasives in the filament can wear this coating down and while it is safe for food to contact like on a frying pan, the worn down products are not.. It also wears the nozzle and metal particles can end up in the print.
+>
+> TL;DR: Use a sealer.
+
+taken from: https://www.reddit.com/r/3Dprinting/comments/13mox1x/comment/jkwd5vu/
+
+> It's stamped with recycling number 1 and is **considered an FDA-approved food-grade material even after it's recycled**, however; leaching of estrogenic compounds – hormone disrupting chemicals – can occur when it's reused.
+
+taken from: https://www.acmeplastics.com/content/the-ultimate-guide-to-food-grade-and-food-safe-plastics/
+
+
+This might mean that I will probably need to have an exhaust system along with an air filter (HEPA?) to prevent the user from inhaling the toxic fumes emitted during the printing and molding. Thus having enclosure would be useful for this project's goal—which is to support recycling plastic bottles into a filament that can be used to print with. The casing is not really necessary as some plastic types that are used in plastic bottles are *quite* safe.
+
+Options for the enclosure material:
+- Acrylic panels (for visibility)
+- Polycarbonate sheets (for heat resistance)
+- Metal sheets—aluminum (for durability)
+
+By adding those enclosure, there must be seals in place to prevent the fume from leaking—else what's the point of the enclosure 😭.
+
+As for the exhaust system, there are some options that I can use or even stack over:
+- Coconut fiber (recycling coconut fiber c:)
+- HEPA filters (quite expensive ngl)
+- Activated carbon fiber
+
+Then having them routed to a filter box or outside—through a window?!—would be a great idea.
+
+Time spent researching: 2 hours
