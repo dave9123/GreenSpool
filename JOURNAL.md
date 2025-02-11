@@ -13,7 +13,7 @@ Time spent so far: 2 hours
 <li>Supports recording timelapse to view the printing process.</li>
 <li>Affordable.</li>
 
-## Day 1 (February 29th 2025)
+## Day 1 (February 9th 2025)
 
 Today I watched a few YouTube videos on how I can possibly make a 3D printer. Then, I realized about the problem that some of us might be facing—plastic waste (except Singaporeans most likely).
 
@@ -54,3 +54,11 @@ Data below is taken from [Plastic Material Melt & Mould Temperatures by PlastikC
 | TPE                             | 260-320                    | 40-70                       | 500-608                    | 104-158                     |
 
 Time spent researching: 2 hours
+
+## Day 2 (February 11th 2025)
+
+I found out that plastics can be harmful when it's heated up. Source:
+- https://www.quora.com/I-live-beside-a-PET-plastic-plant-that-was-just-opened-The-smell-in-my-garden-and-home-is-like-an-acrylic-factory-Could-this-be-harmful-to-the-kids-and-myself
+- https://www.reddit.com/r/unpopularopinion/comments/vfgs8l/heating_food_or_drinks_in_plastic_and_then/
+
+This might mean that I will need to have an exhaust system along with an air filter (HEPA?) to prevent the user from inhaling the toxic fumes emitted during the printing and moulding.
