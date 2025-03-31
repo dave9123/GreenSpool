@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "494859b158b40c8d",
+        "id": "e0e69aede22aeccf",
         "type": "tabs",
         "children": [
           {
-            "id": "e9dfb07b87a40310",
+            "id": "385eeb2db976a571",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -179,12 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9dfb07b87a40310",
+  "active": "385eeb2db976a571",
   "lastOpenFiles": [
+    "JOURNAL.md",
+    "Pasted image 20250331160733.png",
     "images/Pasted image 20250325221055.png",
     "images/20250325221055.png",
     "images/20250325171326.png",
-    "JOURNAL.md",
     "images/Pasted image 20250325171326.png",
     "images",
     "README.md"
